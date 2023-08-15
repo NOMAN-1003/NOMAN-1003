@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NOMAN-1003
-- 👀 I’m interested in coding and learn technology
+- 👀 I’m interested in coding and learning about  technology
 - 🌱 I’m currently learning C,
 - 🐣I will also learn Java, Python, JavaSript, and as much i need
 - 
